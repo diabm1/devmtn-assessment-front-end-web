@@ -25,4 +25,5 @@ let wildCatPicture = document.querySelector("#wild-cat");
 let form = document.querySelector("#contact");
 
 wildCatPicture.addEventListener("mouseover", mouseOverPicture);
+
 form.addEventListener("submit", handleSubmit);

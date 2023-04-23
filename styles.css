@@ -84,3 +84,11 @@ button {
 button:hover {
 	background-color: #007bff;
 }
+
+.button-styles {
+	background-color: yellow;
+	color: black;
+	font-size: 1.2em;
+	padding: 5px;
+	border-radius: 5px;
+}
